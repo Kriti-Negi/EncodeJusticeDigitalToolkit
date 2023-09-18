@@ -5,6 +5,8 @@
 
 body{
   background-color: #1E2A78;
+  height: 100vh;
+  overflow-y: hidden;
 }
 
 /*title*/
@@ -27,7 +29,7 @@ body{
 }
 
 .full-bar > .card{
-  height: 100%;
+  height: 91%;
 }
 
 .split-bar{
@@ -42,6 +44,21 @@ body{
 .wide-section{
   display: grid;
   grid-template-columns: 1fr;
+  height: 100%;
+}
+
+.wide-section-content{
+  height: 100%;
+}
+
+.split-row-bar{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 50%;
+}
+
+.full-row-bar > .card{
+  height: 28.5vh;
 }
 
 /*card*/
@@ -79,4 +96,24 @@ body{
 .card-yellow{
   color: #000;
   background-color: #FFD615;
+}
+
+/* media */
+@media only screen and (max-width: 1200px) {
+  .regular-layout{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: auto;
+  }
+  .full-bar > .card{
+    height: 80.5%;
+  }
+  .wide-section{
+    width: 100%;
+  }
+  .wide-section-content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+  }
 }

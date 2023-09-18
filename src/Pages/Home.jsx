@@ -30,7 +30,7 @@ function Home(){
                 />
             </div>
             <div className="wide-section">
-                <div className="">
+                <div className="wide-section-content">
                     <div className="split-row-bar">
                         <Card
                             bgColor = "yellow"
@@ -46,12 +46,12 @@ function Home(){
                         />
                     </div>
                     <div className="full-row-bar">
-                        <Card
-                            bgColor = "pink"
-                            title = "sdfsdf"
-                            description = "dsfsdf"
-                            link = "https://www.google.com/"
-                        />
+                            <Card
+                                bgColor = "yellow"
+                                title = "sdfsdf"
+                                description = "dsfsdf"
+                                link = "https://www.google.com/"
+                            />
                     </div>
                 </div>
             </div>
