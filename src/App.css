@@ -109,11 +109,45 @@ body{
     height: 80.5%;
   }
   .wide-section{
-    width: 100%;
+    width: 200%;
+    display: grid;
+    grid-template-columns: 1fr;
   }
   .wide-section-content{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    
+  }
+  .split-row-bar{
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  body{
+    overflow-y: scroll;
+  }
+  .regular-layout{
+    padding: 25px;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .split-row-bar{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .wide-section-content{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .full-bar > .card{
+    height: auto;
+  }
+  .wide-section{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .full-row-bar > .card{
+    height: auto;
   }
 }
