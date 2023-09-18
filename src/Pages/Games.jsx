@@ -1,18 +1,18 @@
 import Card from "../Components/Card";
 
-function Home(){
+function Games(){
     return (
         <main className="page">
             <div className="page-title">
-                <h1>E J Digital Toolkit</h1>
+                <h1>Games Found Here!</h1>
             </div>
             <div className="regular-layout">
-            <div className="full-bar">
+            <div className="part-bar">
                 <Card
                     bgColor = "pink"
                     title = "sdfsdf"
                     description = "dsfsdf"
-                    link = "/games"
+                    link = "https://www.google.com/"
                 />
             </div>
             <div className="split-bar">
@@ -61,4 +61,4 @@ function Home(){
     )
 }
 
-export default Home;
+export default Games;
