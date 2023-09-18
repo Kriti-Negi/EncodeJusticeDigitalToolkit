@@ -133,7 +133,7 @@ body{
     height: 53%;
   }
   .wide-section{
-    width: 200%;
+    width: 150%;
     display: grid;
     grid-template-columns: 1fr;
   }
@@ -141,7 +141,11 @@ body{
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
+
   .split-row-bar{
+    height: 100%;
+  }
+  .full-row-bar{
     height: 100%;
   }
 }
