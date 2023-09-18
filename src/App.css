@@ -32,6 +32,11 @@ body{
   height: 91%;
 }
 
+.part-bar > .card{
+  height: 78.5%;
+  margin-top: 18px;
+}
+
 .split-bar{
   display: flex;
   flex-direction: column;
@@ -98,6 +103,22 @@ body{
   background-color: #FFD615;
 }
 
+/*block link*/
+
+.block-link{
+  padding: 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+
+.block-link > h3{
+  font-size: 2rem;
+  margin: 0;
+  font-weight: 400; 
+}
+
 /* media */
 @media only screen and (max-width: 1200px) and (min-width: 1000px) {
   .regular-layout{
@@ -107,6 +128,9 @@ body{
   }
   .full-bar > .card{
     height: 80.5%;
+  }
+  .part-bar > .card{
+    height: 53%;
   }
   .wide-section{
     width: 200%;
@@ -148,6 +172,9 @@ body{
     grid-template-columns: 1fr;
   }
   .full-row-bar > .card{
+    height: auto;
+  }
+  .part-bar > .card{
     height: auto;
   }
 }
