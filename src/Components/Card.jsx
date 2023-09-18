@@ -4,7 +4,7 @@ import blackArrow from '../images/blackArrow.png';
 function Card(props){
 
     return (
-        <div className={"card" + " " + props.bgColor}>
+        <div className={"card" + " " + "card-" + props.bgColor}>
             <div className="top-content">
                 <h3>{props.title}</h3>
                 <p>{props.description}</p>
