@@ -2,34 +2,54 @@ let gameData = [];
 
 gameData = [
         {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
+            title: "Worldometers",
+            description: "See everyone on the world on the same page!",
+            link: "https://www.worldometers.info/watch/world-population/"
         },
         {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
+            title: "This is Sand",
+            description: "Play with some virtual sand!",
+            link: "https://thisissand.com/"
         },
         {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
+            title: "Toilet Paper",
+            description: "Waste all the toilet paper you want with this fun website!",
+            link: "https://papertoilet.com/"
         },
         {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
+            title: "Wordle",
+            description: "Play the world-famous Wordle Game",
+            link: "https://www.nytimes.com/games/wordle/index.html"
         },
         {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
+            title: "Sometimes Red, Sometimes Blue",
+            description: "This website is sometimes red and sometimes blue (refresh to change the color).",
+            link: "https://www.sometimesredsometimesblue.com/"
         },
         {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
+            title: "Neal Fun",
+            description: "See a variety of fun games created by Neal",
+            link: "https://neal.fun/"
+        },
+        {
+            title: "Google Doodles",
+            description: "See all of the Google Doodles!",
+            link: "https://www.google.com/doodles"
+        },
+        {
+            title: "Valentine's Day 2017 google doodle",
+            description: "See the google doodle for Valentine's Day 2017",
+            link: "https://www.google.com/doodles/valentines-day-2017-day-1"
+        },
+        {
+            title: "Halloween 2016 google doodle",
+            description: "See the google doodle for Halloween 2016",
+            link: "https://www.google.com/doodles/halloween-2016"
+        },
+        {
+            title: "Chrome Dino",
+            description: "Play the iconic chrome dino name and learn about its history!",
+            link: "https://dino-chrome.com/"
         }
     ]
 

@@ -1,36 +1,41 @@
 let gameData = [];
 
 gameData = [
-        {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
-        },
-        {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
-        },
-        {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
-        },
-        {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
-        },
-        {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
-        },
-        {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
-        }
+    {
+        title: "Fruitchet",
+        description: "Art by Ijeamaka Anyene",
+        link: "https://ijeamaka.art/portfolio/fruitchet/"
+    },
+    {
+        title: "Aleksandra Jovanic",
+        description: "Art by Aleksandra Jovanic",
+        link: "http://aleksandrajovanic.com/"
+    },
+    {
+        title: "Buena Vida Art",
+        description: "Art by Jimena Buena Vida",
+        link: "https://www.buenavidaart.com/"
+    },
+    {
+        title: "Mutart",
+        description: "Art by Mutart",
+        link: "https://www.fxhash.xyz/u/Mutart"
+    },
+    {
+        title: "kira0",
+        description: "Art by kira0",
+        link: "https://www.fxhash.xyz/u/kira0"
+    },
+    {
+        title: "CSS Patterns",
+        description: "CSS Patterns that can be copied for use in your own website!",
+        link: "https://css-pattern.com/"
+    },
+    {
+        title: "3DManatee",
+        description: "Art by 3DManatee",
+        link: "https://www.fxhash.xyz/u/3DManatee"
+    },
     ]
 
 

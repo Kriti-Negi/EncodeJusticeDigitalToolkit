@@ -2,34 +2,14 @@ let careerData = [];
 
 careerData = [
         {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
+            title: "I'm a...",
+            description: "Watch some real people working in computer science describe their work with Code.org!",
+            link: "https://code.org/careers-with-cs#videos"
         },
         {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
-        },
-        {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
-        },
-        {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
-        },
-        {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
-        },
-        {
-            title: "Some Placeholder values ",
-            description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
-            link: "https://www.google.com/"
+            title: "Work in Tech",
+            description: "Learn about jobs in tech with Khan Academy.",
+            link: "https://www.khanacademy.org/college-careers-more/career-content/work-in-tech"
         }
     ]
 

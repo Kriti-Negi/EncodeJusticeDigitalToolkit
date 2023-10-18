@@ -5,7 +5,7 @@ function Games(props){
     return (
         <main className="page">
             <div className="page-title">
-                <h1>Art Found Here!</h1>
+                <h1>Zine Information Found Here!</h1>
             </div>
             <div className="regular-layout">
                 <div className="part-bar">
@@ -58,24 +58,6 @@ function Games(props){
                                     description = {props.values[5]? props.values[5].description: ""}
                                     link = {props.values[5]? props.values[5].link: ""}
                                 />
-                                <Card
-                                bgColor = "pink"
-                                title = {props.values[6]? props.values[6].title: ""}
-                                description = {props.values[6]? props.values[6].description: ""}
-                                link = {props.values[6]? props.values[6].link: ""}
-                                 />
-                                 <Card
-                                    bgColor = "yellow"
-                                    title = {props.values[7]? props.values[7].title: ""}
-                                    description = {props.values[7]? props.values[7].description: ""}
-                                    link = {props.values[7]? props.values[7].link: ""}
-                                />
-                                <Card
-                                bgColor = "pink"
-                                title = {props.values[8]? props.values[8].title: ""}
-                                description = {props.values[8]? props.values[8].description: ""}
-                                link = {props.values[8]? props.values[8].link: ""}
-                                 />
                         </div>
                     </div>
                 </div>
