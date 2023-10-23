@@ -21,7 +21,7 @@ function Games(props){
                         link = {props.values[0]? props.values[0].link: ""}
                     />
                 </div>
-                <div className="split-bar">
+                <div className="split-bar" hidden = {props.values[1]}>
                     <Card
                         bgColor = "yellow"
                         title = {props.values[1]? props.values[1].title: ""}

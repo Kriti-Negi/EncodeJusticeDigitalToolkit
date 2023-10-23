@@ -22,18 +22,18 @@ function Games(props){
                     />
                 </div>
                 <div className="split-bar">
-                    <Card
+                    {props.values[1] && <Card
                         bgColor = "yellow"
                         title = {props.values[1]? props.values[1].title: ""}
                         description = {props.values[1]? props.values[1].description: ""}
                         link = {props.values[1]? props.values[1].link: ""}
-                    />
-                    <Card
+                    />}
+                    {props.values[2] && <Card
                         bgColor = "pink"
                         title = {props.values[2]? props.values[2].title: ""}
                         description = {props.values[2]? props.values[2].description: ""}
                         link = {props.values[2]? props.values[2].link: ""}
-                    />
+                    />}
                 </div>
                 <div className="wide-section">
                     <div className="wide-section-content">
