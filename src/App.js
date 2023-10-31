@@ -19,13 +19,13 @@ function App() {
   return (
     <HashRouter>
       <div>
-        <Route path = "/" component = {<div><Home values = {homeData}/></div>}/>
-        <Route path = "./games" component = {<div><Games values = {gameData}/></div>}/>
-        <Route path = "/art" component = {<div><Games values = {artData}/></div>}/>
-        <Route path = "/AIBias" component = {<div><Games values = {biasData}/></div>}/>
-        <Route path = "/binaryInformation" component = {<div><Games values = {binaryData}/></div>}/>
-        <Route path = "/CScareers" component = {<div><Games values = {careerData}/></div>}/>
-        <Route path = "/zines" component = {<div><Games values = {zineData}/></div>}/>
+        <Route path = "/" element = {<div><Home values = {homeData}/></div>}/>
+        <Route path = "./games" element = {<div><Games values = {gameData}/></div>}/>
+        <Route path = "/art" element = {<div><Games values = {artData}/></div>}/>
+        <Route path = "/AIBias" element = {<div><Games values = {biasData}/></div>}/>
+        <Route path = "/binaryInformation" element = {<div><Games values = {binaryData}/></div>}/>
+        <Route path = "/CScareers" element = {<div><Games values = {careerData}/></div>}/>
+        <Route path = "/zines" element = {<div><Games values = {zineData}/></div>}/>
       </div>
       
     </HashRouter>
