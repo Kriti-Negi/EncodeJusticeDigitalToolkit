@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EncodeJusticeDigitalToolkit/static/css/main.c33f078f.css",
-    "main.js": "/EncodeJusticeDigitalToolkit/static/js/main.cfb5946e.js",
+    "main.js": "/EncodeJusticeDigitalToolkit/static/js/main.e85c343f.js",
     "static/js/787.90c0052c.chunk.js": "/EncodeJusticeDigitalToolkit/static/js/787.90c0052c.chunk.js",
     "index.html": "/EncodeJusticeDigitalToolkit/index.html",
     "main.c33f078f.css.map": "/EncodeJusticeDigitalToolkit/static/css/main.c33f078f.css.map",
-    "main.cfb5946e.js.map": "/EncodeJusticeDigitalToolkit/static/js/main.cfb5946e.js.map",
+    "main.e85c343f.js.map": "/EncodeJusticeDigitalToolkit/static/js/main.e85c343f.js.map",
     "787.90c0052c.chunk.js.map": "/EncodeJusticeDigitalToolkit/static/js/787.90c0052c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c33f078f.css",
-    "static/js/main.cfb5946e.js"
+    "static/js/main.e85c343f.js"
   ]
 }
