@@ -17,7 +17,7 @@ import careerData from './JsonFiles/careerData';
 import zineData from './JsonFiles/zineData';
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path = "/" element = {<div><Home values = {homeData}/></div>}/>
         <Route path = "/games" element = {<div><Games values = {gameData}/></div>}/>
@@ -28,7 +28,7 @@ function App() {
         <Route path = "/zines" element = {<div><Games values = {zineData}/></div>}/>
       </Routes>
       
-    </BrowserRouter>
+    </HashRouter>
     
   );
 }
