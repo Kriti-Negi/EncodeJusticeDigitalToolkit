@@ -11,7 +11,7 @@ function Games(props){
                 <div className="part-bar">
                     <BlockLink
                         title = "Back to toolBox"
-                        link = "/"
+                        link = "/EncodeJusticeDigitalToolkit/"
                         bgColor = "yellow"
                     />
                     {props.values[0] && <Card
