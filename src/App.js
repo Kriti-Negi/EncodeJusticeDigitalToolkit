@@ -17,18 +17,18 @@ import careerData from './JsonFiles/careerData';
 import zineData from './JsonFiles/zineData';
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
-        <Route path = "/" element = {<div><Home values = {homeData}/></div>}/>
-        <Route path = "/games" element = {<div><Games values = {gameData}/></div>}/>
-        <Route path = "/art" element = {<div><Games values = {artData}/></div>}/>
-        <Route path = "/AIBias" element = {<div><Games values = {biasData}/></div>}/>
-        <Route path = "/binaryInformation" element = {<div><Games values = {binaryData}/></div>}/>
-        <Route path = "/CScareers" element = {<div><Games values = {careerData}/></div>}/>
-        <Route path = "/zines" element = {<div><Games values = {zineData}/></div>}/>
+        <Route exact path = "/" element = {<div><Home values = {homeData}/></div>}/>
+        <Route exact path = "/games" element = {<div><Games values = {gameData}/></div>}/>
+        <Route exact path = "/art" element = {<div><Games values = {artData}/></div>}/>
+        <Route exact path = "/AIBias" element = {<div><Games values = {biasData}/></div>}/>
+        <Route exact path = "/binaryInformation" element = {<div><Games values = {binaryData}/></div>}/>
+        <Route exact path = "/CScareers" element = {<div><Games values = {careerData}/></div>}/>
+        <Route exact path = "/zines" element = {<div><Games values = {zineData}/></div>}/>
       </Routes>
       
-    </BrowserRouter>
+    </HashRouter>
     
   );
 }
