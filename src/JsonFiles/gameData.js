@@ -3,22 +3,22 @@ let gameData = [];
 gameData = [
         {
             title: "Worldometers",
-            description: "See everyone on the world on the same page!",
+            description: "See everyone on the world on the same page! Watch the world population tick up in real time!",
             link: "https://www.worldometers.info/watch/world-population/"
         },
         {
             title: "This is Sand",
-            description: "Play with some virtual sand!",
+            description: "Play with some virtual sand! Play with virtual colors and watch how the programmers managed to create virtual gravity!",
             link: "https://thisissand.com/"
         },
         {
             title: "Toilet Paper",
-            description: "Waste all the toilet paper you want with this fun website!",
+            description: "Waste all the toilet paper you want with this fun website! Computer programming can be fun and silly!",
             link: "https://papertoilet.com/"
         },
         {
             title: "Wordle",
-            description: "Play the world-famous Wordle Game",
+            description: "Play the world-famous Wordle Game. Computer games can be very simple, yet super fun!",
             link: "https://www.nytimes.com/games/wordle/index.html"
         },
         {
@@ -28,27 +28,27 @@ gameData = [
         },
         {
             title: "Neal Fun",
-            description: "See a variety of fun games created by Neal",
+            description: "See a variety of fun games created by Neal, including games that teach you about things like our atmosphere, the universe, and more!",
             link: "https://neal.fun/"
         },
         {
             title: "Google Doodles",
-            description: "See all of the Google Doodles!",
+            description: "See all of the Google Doodles! See the creative drawings and games of the Google team, seen by millions around the world!",
             link: "https://www.google.com/doodles"
         },
         {
             title: "Valentine's Day 2017 google doodle",
-            description: "See the google doodle for Valentine's Day 2017",
+            description: "See the google doodle for Valentine's Day 2017, a fun game where you play as a pangolin!",
             link: "https://www.google.com/doodles/valentines-day-2017-day-1"
         },
         {
             title: "Halloween 2016 google doodle",
-            description: "See the google doodle for Halloween 2016",
+            description: "See the google doodle for Halloween 2016, a game where you play as a cute black cat!",
             link: "https://www.google.com/doodles/halloween-2016"
         },
         {
             title: "Chrome Dino",
-            description: "Play the iconic chrome dino name and learn about its history!",
+            description: "Play the iconic chrome dino game and learn about its history! Jump over the cactuses and get as far as you can!",
             link: "https://dino-chrome.com/"
         }
     ]
