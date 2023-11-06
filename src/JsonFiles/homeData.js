@@ -13,7 +13,7 @@ homeData = [
         },
         {
             title: "AI Bias",
-            description: "Learn some more about AI (Artificial Intelligence) Bias.",
+            description: "Learn some more about AI (Artificial Intelligence) Bias (what happens when AI consistently favors or discriminates against certain groups).",
             link: "#/AIBias"
         },
         {
@@ -28,7 +28,7 @@ homeData = [
         },
         {
             title: "How to Make a Zine",
-            description: "Learn how to fold the 8-page zine included in your kit, or make your own!",
+            description: "Learn how to fold the 8-page zines included in your kit, or make your own!",
             link: "#/zines"
         }
     ]

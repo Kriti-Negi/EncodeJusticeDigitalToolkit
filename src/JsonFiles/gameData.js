@@ -3,22 +3,22 @@ let gameData = [];
 gameData = [
         {
             title: "Worldometers",
-            description: "See everyone on the world on the same page! Watch the world population tick up in real time!",
+            description: "See everyone on the world on the same page!",
             link: "https://www.worldometers.info/watch/world-population/"
         },
         {
             title: "This is Sand",
-            description: "Play with some virtual sand! Play with virtual colors and watch how the programmers managed to create virtual gravity!",
+            description: "Play with some virtual sand!",
             link: "https://thisissand.com/"
         },
         {
             title: "Toilet Paper",
-            description: "Waste all the toilet paper you want with this fun website! Computer programming can be fun and silly!",
+            description: "Waste all the toilet paper you want with this fun website!",
             link: "https://papertoilet.com/"
         },
         {
             title: "Wordle",
-            description: "Play the world-famous Wordle Game. Computer games can be very simple, yet super fun!",
+            description: "Play the world-famous Wordle Game.",
             link: "https://www.nytimes.com/games/wordle/index.html"
         },
         {
@@ -48,7 +48,7 @@ gameData = [
         },
         {
             title: "Chrome Dino",
-            description: "Play the iconic chrome dino game and learn about its history! Jump over the cactuses and get as far as you can!",
+            description: "Play the iconic chrome dino game and learn about its history!",
             link: "https://dino-chrome.com/"
         }
     ]

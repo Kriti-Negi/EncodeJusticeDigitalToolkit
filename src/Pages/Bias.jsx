@@ -1,7 +1,7 @@
 import BlockLink from "../Components/BlockLink";
 import Card from "../Components/Card";
 
-function Games(props){
+function Bias(props){
     return (
         <main className="page">
             <div className="page-title">
@@ -68,4 +68,4 @@ function Games(props){
     )
 }
 
-export default Games;
+export default Bias;
