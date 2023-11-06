@@ -11,7 +11,7 @@ function Zine(props){
                 <div className="part-bar">
                     <BlockLink
                         title = "Back to toolBox"
-                        link = "/"
+                        link = "/EncodeJusticeDigitalToolkit/"
                         bgColor = "yellow"
                     />
                     <Card
