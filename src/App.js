@@ -21,11 +21,11 @@ function App() {
       <Routes>
         <Route exact path = "/" element = {<div><Home values = {homeData}/></div>}/>
         <Route exact path = "/games" element = {<div><Games values = {gameData}/></div>}/>
-        <Route exact path = "/art" element = {<div><Games values = {artData}/></div>}/>
-        <Route exact path = "/AIBias" element = {<div><Games values = {biasData}/></div>}/>
-        <Route exact path = "/binaryInformation" element = {<div><Games values = {binaryData}/></div>}/>
-        <Route exact path = "/CScareers" element = {<div><Games values = {careerData}/></div>}/>
-        <Route exact path = "/zines" element = {<div><Games values = {zineData}/></div>}/>
+        <Route exact path = "/art" element = {<div><Art values = {artData}/></div>}/>
+        <Route exact path = "/AIBias" element = {<div><Bias values = {biasData}/></div>}/>
+        <Route exact path = "/binaryInformation" element = {<div><Binary values = {binaryData}/></div>}/>
+        <Route exact path = "/CScareers" element = {<div><Career values = {careerData}/></div>}/>
+        <Route exact path = "/zines" element = {<div><Zine values = {zineData}/></div>}/>
       </Routes>
       
     </HashRouter>
